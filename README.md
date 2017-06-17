@@ -18,7 +18,7 @@
 
 ## Apps 💻 
 
-None yet :(
+* [Razer Paint](https://github.com/nick-michael/razer-paint) - An application to paint and animate Razer Chroma keyboards. Built with Electron.
 
 ## Games 🎮 
 
