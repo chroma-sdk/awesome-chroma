@@ -46,7 +46,7 @@ None yet :(
 
 ## Communities 👥 
 
-None yet :(
+* [Razer Insider](https://insider.razerzone.com/index.php?forums/razer-chroma-sdk.78) - Official Chroma-SDK section of Razer Insider. 
 
 ## Miscellaneous 💌 
 
