@@ -21,9 +21,11 @@
 ## SDK Libraries 🎨
 
 * [BCA](https://github.com/chroma-sdk/bca) - Dedicated file format for sharing animations between libaries
-* [Chroma Core](https://github.com/chroma-sdk/chroma-core) - Razer Chroma REST API libary for .NET Core
+* [Chroma Core](https://github.com/chroma-sdk/chroma-core) - Razer Chroma REST API libary for .NET Standard
 * [Chroma JS](https://github.com/chroma-sdk/chroma-js) - JS client for the Razer Chroma REST API
 * [Chroma Python](https://github.com/chroma-sdk/chroma-python) - Python library for the Razer Chroma REST API
+* [Unity SDK](https://github.com/razerofficial/UnityChromaSDK) - Unity Chroma Plugin for the Chroma REST API
+* [Unreal Engine 4 SDK](https://github.com/razerofficial/UE4ChromaSDK) - Unreal Engine 4 (UE4) Blueprint library to control lighting for Razer Chroma
 
 ## Apps 💻 
 
@@ -35,7 +37,7 @@ None yet :(
 
 ## Tools 🔧 
 
-None yet :(
+* [GameMaker Extension](https://github.com/razerofficial/GameMakerChromaExtension) - GameMaker Extension to control lighting for Razer Chroma
 
 ## Components  📦 
 
