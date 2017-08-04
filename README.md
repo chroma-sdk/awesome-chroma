@@ -50,7 +50,7 @@ None yet :(
 
 ## Official Documentation
 
-The Chroma SDK documentation are maintained by Razer and will give everything you need to integrate Chroma from scratch. Most [SDK Libraries](#sdk-libraries) will have implemented this for you, but if you're looking to create a library for a different langauge, this is a good starting point.
+The Chroma SDK documentation are maintained by Razer and will give everything you need to integrate Chroma from scratch. Most [SDK Libraries](#sdk-libraries) will have implemented this for you, but if you're looking to create a library for a different language, this is a good starting point.
 
 * [Chroma REST documentation](https://assets.razerzone.com/dev_portal/REST/html/index.html) - Official Rest API documentation
 * [Chroma C++ documentation](https://assets.razerzone.com/dev_portal/C%2B%2B/html/index.html) - Official C++ API documentation
