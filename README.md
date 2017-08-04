@@ -78,4 +78,4 @@ None yet :(
 
 ## Contribute
 
-Contributions are certainly welcome! Please ensure you have read the contribution guidelines first.
+Contributions are certainly welcome! Please ensure you have read our [Mission Statement](https://github.com/chroma-sdk/about) first.
