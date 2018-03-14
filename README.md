@@ -21,6 +21,7 @@
 ## SDK Libraries
 
 * [BCA](https://github.com/chroma-sdk/bca) - Dedicated file format for sharing animations between libaries
+* [Colore](https://github.com/CoraleStudios/Colore) - .NET library supporting .NET Standard 1.3 and Framework 4.5.1, supports both native and REST Chroma APIs
 * [Chroma Core](https://github.com/chroma-sdk/chroma-core) - Razer Chroma REST API libary for .NET Standard
 * [Chroma JS](https://github.com/chroma-sdk/chroma-js) - JS client for the Razer Chroma REST API
 * [Chroma Python](https://github.com/chroma-sdk/chroma-python) - Python library for the Razer Chroma REST API
