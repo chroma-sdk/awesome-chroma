@@ -87,7 +87,7 @@ puppeteer.launch({
         }
         return 0;
       })
-      .map(x => `[![${x.title}](${x.image})](${x.url})`)
+      .map(x => `[<img alt="${x.title}" src="${x.image}" width="130" />](${x.url})`)
       .join('\r\n'),
     }), resultsSelector);
 
