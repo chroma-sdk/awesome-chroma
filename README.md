@@ -1,9 +1,9 @@
 # Awesome Chroma
-> A curated collection of open-source Chroma SDK apps and resources
+> A curated collection of open-source Chroma SDK apps and resources, as well as official integrations.
 
 ## Contents
 
-> :bear: Right now, this project is a little bare. If you own / know something that fits in the below categories, you are welcome to raise an issue or submit a pull request.
+> 🐻 Right now, this project is a little bare. If you own / know something that fits in the below categories, you are welcome to raise an issue or submit a pull request.
 
 * [SDK Libraries](#sdk-libraries) 🎨
 * [Apps](#apps) 💻  
