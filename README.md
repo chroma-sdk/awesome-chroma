@@ -168,6 +168,7 @@ Below is a list of third party devices that are powered by Chroma.
 ## Tools
 
 * [GameMaker Extension](https://github.com/razerofficial/GameMakerChromaExtension) - GameMaker Extension to control lighting for Razer Chroma
+* [VSChroma VSCode Extension](https://github.com/Pastez/VSChroma) - Visual Studio Extension to control lighting for Razer Chroma Keyboard
 
 ## Components
 
